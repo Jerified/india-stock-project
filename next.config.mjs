@@ -5,6 +5,9 @@ const nextConfig = {
             {
                 protocol: 'https',
                 hostname: 'randomuser.me'
+            },
+            {
+                hostname: 'images.unsplash.com'
             }
         ]
     }
